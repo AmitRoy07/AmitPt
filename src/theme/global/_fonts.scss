@@ -1,0 +1,14 @@
+@use "src/theme/sass" as *;
+
+.body {
+  font-size: scaleValue(16px, 18px, rem);
+  line-height: scaleValue(20px, 22px, rem);
+}
+.body1 {
+  font-size: scaleValue(16px, 16px, rem);
+  line-height: scaleValue(20px, 20px, rem);
+}
+.body2 {
+  font-size: scaleValue(14px, 14px, rem);
+  line-height: scaleValue(20px, 20px, rem);
+}

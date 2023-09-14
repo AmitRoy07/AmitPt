@@ -1,0 +1,57 @@
+:root {
+    // ========== Color ==========
+    // Text
+    --clr_text_primary: #ffffff;
+    --clr_text_secondary: #121517;
+
+    --clr_text_neutral_extremeLight: #ffffff;
+    --clr_text_neutral_extraLight: #ffffff;
+    --clr_text_neutral_light: #c5d1e3;
+    --clr_text_neutral: #8b98ad;
+    --clr_text_neutral_dark: #2a3950;
+    --clr_text_neutral_extraDark: #000000;
+    --clr_text_neutral_extremeDark: #000000;
+
+    --clr_text_info: #4d89ff;
+
+    --clr_text_success: #8fc23a;
+
+    --clr_text_warn: #ffc700;
+
+    --clr_text_error: #ff6752;
+
+    // Background
+    --clr_bg_primary: #ffffff;
+    --clr_bg_secondary: #000000;
+    --clr_bg_secondary2: #1c1c1c;
+
+    --clr_bg_lightColor: #fff6e5;
+
+    --clr_bg_neutral_dark: #2a3950;
+
+    --clr_bg_color_grey: #949899;
+
+    // ========== Gradient ==========
+
+    // ========== Border ==========
+    --clr_border_primary: #ffffff;
+    --clr_border_secondary: #000000;
+
+    // ========== Overlay ==========
+
+    // ========== Transitions ==========
+    --transition: all 0.3s ease-in-out;
+
+    // ========== Font Family ==========
+
+    --font_primary: 'DM Sans', sans-serif;
+    --font_Ubuntu: 'Ubuntu', sans-serif;
+
+    // ========== Font Weight ==========
+    --Fw_light: 300;
+    --Fw_regular: 400;
+    --Fw_medium: 500;
+    --Fw_semiBold: 600;
+    --Fw_bold: 700;
+    --Fw_black: 900;
+}
